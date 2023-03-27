@@ -21,6 +21,4 @@ I'm a **Front End Developer** with a passion for creating amazing user experienc
 
 ## 📬 Get in Touch
 
-- 💼 LinkedIn: [linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-- 🐦 Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
