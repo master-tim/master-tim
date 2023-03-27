@@ -15,3 +15,5 @@ I'm a **Front End Developer** with a passion for creating amazing user experienc
 ### 📬 Get in Touch
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzhoroev7/)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/)
+
