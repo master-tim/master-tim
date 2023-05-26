@@ -1,7 +1,5 @@
 ## Hi there, I'm Master Tim 👋
 
-![Evil smile](https://media.tenor.com/3HwSd6XzABkAAAAC/evil-smile.gif)
-
 I'm a **Front End Developer** with a passion for creating amazing user experiences and stunning visuals. I'm also interested in exploring the world of **2D/3D graphics** and **UX/UI design**. Welcome to my GitHub profile!
 
 ### 🛠️ Skills & Technologies
